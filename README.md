@@ -30,3 +30,6 @@
 <img src="https://media2.giphy.com/media/SS8CV2rQdlYNLtBCiF/200.webp?cid=ecf05e47dvkkrb60vgut99yf5s2p0b2jkt8in6es657xg9v0&ep=v1_gifs_search&rid=200.webp&ct=g" alt="" srcset="">
 <img src="https://media3.giphy.com/media/xUPGcfzaX9hFFQJYre/200w.webp?cid=ecf05e47q3n7lltrm64atuaqs08d70xtnl8nynpb122b1hu2&ep=v1_gifs_related&rid=200w.webp&ct=g" alt="" srcset="">
 <img src="https://media3.giphy.com/media/6hM6w8fVK2tcQ/200.webp?cid=ecf05e47aq8s0ynuthkue1attog64dson38i95wb4k46t9te&ep=v1_gifs_search&rid=200.webp&ct=g" alt="" srcset="">
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
